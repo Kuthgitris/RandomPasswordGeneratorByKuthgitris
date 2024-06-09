@@ -2,6 +2,8 @@
 
 A random strong password generator.
 
+String arrays used were inspired by KeePassXC, they are the same except i did not add an extended ASCII list.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
